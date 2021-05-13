@@ -97,5 +97,5 @@ router.get('/login', (req, res) => {
   res.render('login');
 });
 
-// Export the comments router module
+// Export the home-routes router module
 module.exports = router;

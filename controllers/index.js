@@ -13,5 +13,5 @@ router.use((req, res) => {
   res.status(404).end();
 });
 
-// Export the comments router module 
+// Export the index router module 
 module.exports = router;

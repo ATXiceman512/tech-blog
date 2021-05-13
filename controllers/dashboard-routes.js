@@ -86,5 +86,5 @@ router.get('/edit/:id', withAuth, (req, res) => {
     });
 });
 
-// Export the comments router module
+// Export the dashboard-routes router module
 module.exports = router;

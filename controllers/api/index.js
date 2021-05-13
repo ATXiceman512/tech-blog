@@ -11,5 +11,5 @@ router.use('/users', userRoutes);
 router.use('/posts', postRoutes);
 router.use('/comments', commentRoutes);
 
-// Export the router module
+// Export the index router module
 module.exports = router;

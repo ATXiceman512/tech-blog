@@ -137,5 +137,5 @@ router.delete('/:id', withAuth, (req, res) => {
     });
 });
 
-// Export the router module
+// Export the post-routes router module
 module.exports = router;

@@ -53,5 +53,5 @@ router.delete('/:id', (req, res) => {
     })
 });
 
-// Export the comments router module
+// Export the comment-routes router module
 module.exports = router;
